@@ -72,7 +72,7 @@ void dfs(vector<vector<int>>& star, vector<vector<int>>& end, int x, int y, int 
             //»Ö¸´Í¼Ïñ
             swap(star[line][row], star[y][x]);
         }
-    }
+    } 
 }
 
 int
